@@ -40,7 +40,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1719408114,
+        "expirationDate": 1719409072,
         "hostOnly": false,
         "httpOnly": false,
         "name": "vpd",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1745760114,
+        "expirationDate": 1745761072,
         "hostOnly": false,
         "httpOnly": false,
         "name": "fbl_st",
@@ -75,7 +75,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "100638794%3BT%3A28570401"
+        "value": "100636271%3BT%3A28570417"
     },
     {
         "domain": ".facebook.com",
@@ -89,18 +89,6 @@
         "session": false,
         "storeId": null,
         "value": "en_US"
-    },
-    {
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "m_pixel_ratio",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "2"
     },
     {
         "domain": ".facebook.com",
@@ -169,7 +157,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1722000113,
+        "expirationDate": 1722001072,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wl_cbv",
@@ -178,18 +166,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "v2%3Bclient_version%3A2481%3Btimestamp%3A1714224114"
-    },
-    {
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "x-referer",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZZUJNODlmNzc1aDFFSnlaX05JdFVnRUpUdDNKQmZ6ek1MSmctTDlIVzVhR0t0NEZBMlZRQjR4UGZZdENRWlZsYyUyNnd0c2lkJTNEcmRyXzBtbkV1bzlCSHhqN2VkTElGJmNvbmZpcm1hdGlvbl9ldmVudF9sb2NhdGlvbj1zbXMmZWF2PUFmYlZ4Q0s5M0lWeGNBRDRxSnRHNkEzVGpCVXdINDVhbTUtdzlsS0t6X1FKMGhjSXlHdzlQUmlsdms1UVRsRGtnWFEmcGFpcHY9MCZzb2Z0PWhqayIsImgiOiIvY29uZmlybWVtYWlsLnBocD9uZXh0PWh0dHBzJTNBJTJGJTJGbS5mYWNlYm9vay5jb20lMkYlM0ZwYWlwdiUzRDAlMjZlYXYlM0RBZlllQk04OWY3NzVoMUVKeVpfTkl0VWdFSlR0M0pCZnp6TUxKZy1MOUhXNWFHS3Q0RkEyVlFCNHhQZll0Q1FaVmxjJTI2d3RzaWQlM0RyZHJfMG1uRXVvOUJIeGo3ZWRMSUYmY29uZmlybWF0aW9uX2V2ZW50X2xvY2F0aW9uPXNtcyZlYXY9QWZiVnhDSzkzSVZ4Y0FENHFKdEc2QTNUakJVd0g0NWFtNS13OWxLS3pfUUowaGNJeUd3OVBSaWx2azVRVGxEa2dYUSZwYWlwdj0wJnNvZnQ9aGprIiwicyI6Im0ifQ%3D%3D"
+        "value": "v2%3Bclient_version%3A2481%3Btimestamp%3A1714225073"
     }
 ]
